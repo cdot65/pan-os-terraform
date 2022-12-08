@@ -1,3 +1,4 @@
+# https://registry.terraform.io/providers/PaloAltoNetworks/panos/latest/docs
 terraform {
   required_providers {
     panos = {
