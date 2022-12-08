@@ -41,3 +41,4 @@ terraform.rc
 *.software
 *.content
 *init-cfg.txt
+*.iso
