@@ -1,0 +1,3 @@
+fw_ip    = "10.60.0.100"
+username = "automation"
+password = "paloalto#1"
